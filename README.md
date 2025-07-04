@@ -4,7 +4,7 @@ Development of a prediction model for CYP3A4 enzyme inhibition involved in drug 
 # Data Enhance
 *Advanced Datasheet* <br>
 This Data is enhanced by mordred library. This Data includes NaN value, so NaN value handling is required before training. <br>
-Not all mordred features are included. Features including more than 20& of NaN value are deleted.
+Not all mordred features are included. Features including more than 20& of NaN value are deleted. <br>
 Data download link: https://drive.google.com/file/d/1Ws8DdN3sevImTgrnVF_-YVj2v1HtIadY/view?usp=sharing
 
 # References
