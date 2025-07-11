@@ -15,3 +15,4 @@ Data download: https://drive.google.com/file/d/1u74cRmmj-HZ9a8VynpoTeQrNtCB2F_IP
 # References
 Yu, T. (2023). Machine Learning Approaches to Investigate the Structure–Activity Relationship of Angiotensin-Converting Enzyme Inhibitors. Journal of the American Chemical Society, 8(46) <br>
 Xie, Z., Zhang, T., Wang, J. F., Chou, K. C., & Wei, D. Q. (2010). The computational model to predict accurately inhibitory activity for inhibitors towardsCYP3A4. Computers in Biology and Medicine, 40(11-12), 845-852 <br>
+Wang, N. N., Wang, X. G., Xiong, G. L., Yang, Z. Y., Lu, A. P., Chen, X., ... & Cao, D. S. (2022). Machine learning to predict metabolic drug interactions related to cytochrome P450 isozymes. Journal of Cheminformatics, 14(1), 23. <br>
